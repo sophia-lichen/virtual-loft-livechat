@@ -27,7 +27,7 @@ HotspotPanoramaOverlayTextImage_B9792726_9BCB_6A2C_41DF_D6B22DB9FE42.text = LIVI
 HotspotPanoramaOverlayArea_8396EFBF_9E06_B251_41CB_B19B0C855F32.toolTip = 3D model
 HotspotPanoramaOverlayArea_B8AEDB9A_A368_FB74_41CE_F725C933336B.toolTip = Bouquet details
 HotspotPanoramaOverlayArea_BE2CD9DF_A358_E6EC_419C_9D5ACA5BCFDC.toolTip = Candle details
-HotspotPanoramaOverlayArea_8CE94736_95E0_C8FB_41D2_5EF71CACBB0E.toolTip = Full image
+HotspotPanoramaOverlayArea_88049857_B9FB_3457_4160_3B0D871FB106.toolTip = Full image
 HotspotPanoramaOverlayArea_82D41D53_9511_841F_41D7_846E119B0A9B.toolTip = Go downstairs
 HotspotPanoramaOverlayArea_836C1826_9510_8C39_41DB_80C8013B6F31.toolTip = Go upstairs
 HotspotPanoramaOverlayArea_BD34EC64_A3B9_9DDC_41CD_5F4939F326DC.toolTip = Party gift ideas
@@ -49,8 +49,11 @@ imlevel_BE5DCF05_9BBB_DBEC_41E3_0AF46E8AEF1E.url = media/panorama_9BA68674_940B_
 imlevel_BE5FEF7B_9BBB_DA24_41C6_E02155109799.url = media/panorama_9BA68674_940B_D6D4_41DA_3BF8C8316029_HS_rf5ymgiu_en.png
 imlevel_BE523E93_9BBB_DAE4_41D9_A61E3F466944.url = media/panorama_9BBB4A5C_940B_BED4_419F_55062710F327_HS_eia96lwl_en.png
 imlevel_BE57FE29_9BBB_DA24_41DE_23E4ACE39FF0.url = media/panorama_9BBB4A5C_940B_BED4_419F_55062710F327_HS_nyclxo10_en.png
-imlevel_AB7394FE_B81B_FC59_41D0_9E71B201EEAE.url = media/popup_863E3E3C_9B4B_3A1C_41DC_07CBE4D9516F_en_0_0.jpeg
-imlevel_AB7244FE_B81B_FC59_41C2_45EA9D53666B.url = media/popup_863E3E3C_9B4B_3A1C_41DC_07CBE4D9516F_en_0_1.jpeg
+imlevel_8A28A373_B9E5_546F_41C7_62E99E19AD20.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_0.png
+imlevel_8A28C373_B9E5_546F_41E4_EAF3166A40DA.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_1.png
+imlevel_8A28E373_B9E5_546F_41D1_B629699710C7.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_2.png
+imlevel_8A280373_B9E5_546F_41BC_2AFD45D18554.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_3.png
+imlevel_8A263373_B9E5_546F_41D7_882F048712A1.url = media/popup_8B4ADDBE_B9FD_4CD9_41AA_D8ADCAE163A0_en_0_4.png
 
 ### Popup Image
 
@@ -67,14 +70,14 @@ video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC.label = vangoghmuseum-s0031V1962-800
 video_87968F86_9E0B_5233_41D7_6D324D21C995.label = vangoghmuseum-s0047V1962-800
 
 ### Video
-videolevel_9026C160_B86D_5469_41D2_A6CFA017597F.url = media/video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC_en.mp4
-videolevel_9026C160_B86D_5469_41D2_A6CFA017597F.posterURL = media/video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC_poster_en.jpg
-videolevel_90260143_B86D_55AF_41DE_A7262EAEE73C.url = media/video_86EBF483_9E1A_D631_419D_A9C0C315E846_en.mp4
-videolevel_90260143_B86D_55AF_41DE_A7262EAEE73C.posterURL = media/video_86EBF483_9E1A_D631_419D_A9C0C315E846_poster_en.jpg
-videolevel_9027D174_B86D_5469_41B5_D3540F896F69.url = media/video_87968F86_9E0B_5233_41D7_6D324D21C995_en.mp4
-videolevel_9027D174_B86D_5469_41B5_D3540F896F69.posterURL = media/video_87968F86_9E0B_5233_41D7_6D324D21C995_poster_en.jpg
-videolevel_902341E7_B86D_5477_41C3_ADAFBD8FABC7.url = media/video_8F3260AA_9510_7C09_41C2_C3C9EAF7EF9D_en.mp4
-videolevel_902341E7_B86D_5477_41C3_ADAFBD8FABC7.posterURL = media/video_8F3260AA_9510_7C09_41C2_C3C9EAF7EF9D_poster_en.jpg
+videolevel_8ADBEE0F_B9EF_4FB7_41CA_275417991852.url = media/video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC_en.mp4
+videolevel_8ADBEE0F_B9EF_4FB7_41CA_275417991852.posterURL = media/video_846D4FAB_9E0A_B271_41D4_19B96F6A8FDC_poster_en.jpg
+videolevel_8ADB4DF9_B9EF_4C5B_41E3_FBD13A293609.url = media/video_86EBF483_9E1A_D631_419D_A9C0C315E846_en.mp4
+videolevel_8ADB4DF9_B9EF_4C5B_41E3_FBD13A293609.posterURL = media/video_86EBF483_9E1A_D631_419D_A9C0C315E846_poster_en.jpg
+videolevel_8ADA5E27_B9EF_4FF7_41E4_79B08E256384.url = media/video_87968F86_9E0B_5233_41D7_6D324D21C995_en.mp4
+videolevel_8ADA5E27_B9EF_4FF7_41E4_79B08E256384.posterURL = media/video_87968F86_9E0B_5233_41D7_6D324D21C995_poster_en.jpg
+videolevel_8AC73E96_B9EF_4CA9_41BF_C2B5E59AFF0E.url = media/video_8F3260AA_9510_7C09_41C2_C3C9EAF7EF9D_en.mp4
+videolevel_8AC73E96_B9EF_4CA9_41BF_C2B5E59AFF0E.posterURL = media/video_8F3260AA_9510_7C09_41C2_C3C9EAF7EF9D_poster_en.jpg
 
 ## Popup
 
@@ -84,12 +87,6 @@ htmlText_BF831B55_A368_9BFC_41E0_A307726F2EE1.html = <div style="text-align:left
 htmlText_B8C87DA7_A0C1_944E_41AD_7FF6F4CBF5CF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>VIMLE 3-seat sofa</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This soft sofa will have a long life since the seat cushions are filled with high resilience foam that gives good support for your body and quickly regains its original shape when you get up.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.ikea.com/au/en/p/vimle-3-seat-sofa-gunnared-beige-s39399032/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;"><B><U>More info</U></B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Skin
-
-### Button
-Button_A9176D66_B308_29FE_41C1_80EDE83C26E4.label =          Art space
-Button_A96EE681_B308_3B32_41E1_DF5DA35E8ADD.label =          Bedroom
-Button_A951BA58_B308_2BD2_41D8_680F7F675563.label =          Dining room
-Button_A92CBC65_B308_6FF2_41D8_EB46D3A23962.label =          Living room
 
 ### Label
 Label_A808B6B4_B308_3B52_41D7_19E5D8486942.text = All SPACES
